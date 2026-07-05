@@ -97,3 +97,5 @@ Platform ini dikembangkan oleh **Kelompok 7 RPL C from Universitas Muhammadiyah 
 
 * **Lisensi & Hak Cipta**: Copyright &copy; 2026 **PENA-UMKM**. Made with ❤️ by Kelompok 7 RPL C.
 # PENA_UMKM
+# url Figma
+https://www.figma.com/design/byWUoa62MZgo6SFT5MmMbD/Untitled?node-id=3-2&t=3wJhoPHmPZ0PokSH-1 
